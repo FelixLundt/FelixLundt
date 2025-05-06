@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently analyzing neural data from mice and building models to describe them.
-- 🎓 I’m teaching Python courses on software carpentry and building agents playing games.
+- 🧠👣 I’m currently analyzing neural data from mice and building models to describe them.
+- 🧠🌀 I'm also currently building models to describe memory consolidation, and analyze data to validate them.
+- 👨‍🏫🤖 I’m teaching Python courses on software carpentry and building agents playing games.
+- 🚲🏙️☕ I'm passionate about car-free cities, sustainability and coffee.
 
 
 
